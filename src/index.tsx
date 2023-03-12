@@ -5,6 +5,7 @@ import {
 } from "react-router-dom";
 import { App } from './components/app/App';
 import 'normalize.css';
+import 'bootstrap/dist/css/bootstrap.css';
 import './index.css'
 
 

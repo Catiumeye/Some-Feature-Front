@@ -1,3 +1,16 @@
-:root {
+/* :root {
     --container-max-width: 1000px;
+    --inner-padding: 10px
+} */
+
+/* html {
+    box-sizing: border-box;
 }
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.9);
+} */
